@@ -1,0 +1,29 @@
+Q1 : What is average Arithmetic.Mean for Bromine PM2.5 LC in the state of Wisconsin in this dataset? 
+ 0.00396048192771084 
+ 
+ Q2 : Which constituent Parameter.Name has the highest average level? 
+ OC CSN Unadjusted PM2.5 LC TOT 
+ 
+ Q3 : Which monitoring site has the highest average level of Sulfate PM2.5 LC across all time? 
+ State 39 County 081 Site 0017 
+ 
+ Q4 : What is the absolute difference in the average levels of EC PM2.5 LC TOR between the states California and Arizona, across all time and all monitoring sites? 
+ 0.0185669607414115 
+ 
+ Q5 : What is the median level of OC PM2.5 LC TOR in the western United States,  across all time? Define western as any monitoring location that has a Longitude LESS THAN -100. 
+ 0.43 
+ 
+ Q6 : How many monitoring sites are labelled as both RESIDENTIAL for Land Use and SUBURBAN for Location Setting? 
+ 3527 
+ 
+ Q7 : What is the median level of EC PM2.5 LC TOR amongst monitoring sites that are labelled as both RESIDENTIAL and SUBURBAN5 in the eastern U.S., where eastern is defined as Longitude greater than or equal to -100? 
+ 0.61 
+ 
+ Q8 : Amongst monitoring sites that are labeled as COMMERCIAL for Land Use, which month of the year has the highest average levels of Sulfate PM2.5 LC ? 
+ février 
+ 
+ Q9 : Take a look at the data for the monitoring site identified by State Code 6, County Code 65, and Site Number 8001 (this monitor is in California). At this monitor, for how many days is the sum of Sulfate PM2.5 LC and Total Nitrate PM2.5 LC greater than 10? 
+ 11 
+ 
+ Q10 : Which monitoring site in the dataset has the highest correlation between Sulfate PM2.5 LC and Total Nitrate PM2.5 LC across all dates? Identify the monitoring site by it's State, County, and Site Number code.  
+ State 02 County 090 Site 0035
